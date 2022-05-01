@@ -1,4 +1,8 @@
-# 10 Object-Oriented Programming: Team Profile Generator
+# Team Profile Generator
+
+![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JS](https://img.shields.io/badge/-JS-yellow) ![Node](https://img.shields.io/badge/-Node-brightgreen)
+![JEST](https://img.shields.io/badge/-JEST-darkred) ![Inquirer](https://img.shields.io/badge/-Inquirer-pink)
+
 
 ## Your Task
 
