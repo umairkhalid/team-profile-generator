@@ -51,7 +51,6 @@ function init() {
 
       //push manager's data to an empty array
       team.push(manager);
-      console.log(team);
 
       // prompting to add more employees
       addTeamMembers();
@@ -86,7 +85,6 @@ function addEngineer() {
       );
       //push engineer's data to an empty array
       team.push(engineer);
-      console.log(team);
 
       // prompting to add more employees
       addTeamMembers();
@@ -121,7 +119,6 @@ function addIntern() {
       )
       //push intern's data to an empty array
       team.push(intern);
-      console.log(team);
 
       // prompting to add more employees
       addTeamMembers();
@@ -152,6 +149,7 @@ function addTeamMembers() {
 
         default:
           generateHTML();
+          console.log(team);
       }
     });
 }
