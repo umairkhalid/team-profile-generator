@@ -43,7 +43,7 @@ THEN I exit the application, and the HTML is generated
 ## Walkthrough Video:
 
 ![portfolio walkthrough](./dist/walkthrough.mp4)
-
+walkthrough.mp4
 ## Application Demo:
 
 ![portfolio demo](./dist/demo.gif)
