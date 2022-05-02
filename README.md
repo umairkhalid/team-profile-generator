@@ -41,7 +41,7 @@ THEN I exit the application, and the HTML is generated
 ```
 ## Walkthrough Video (Tests):
 
-https://drive.google.com/file/d/1cjHKDrB8p9ZQePltYlSG8HlY0o6l_uRt/view
+https://user-images.githubusercontent.com/6329184/166236594-7a4784ef-fa87-4b8e-a5f8-c8cbac7f68a8.mp4
 
 ## Walkthrough Video:
 
