@@ -46,7 +46,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Application Demo:
 
-![portfolio demo](./dist/walkthrough.mp4)
+![portfolio demo](./dist/demo.gif)
 
 ## Table-of-Contents
 * [Installation](#installation)
