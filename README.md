@@ -42,11 +42,11 @@ THEN I exit the application, and the HTML is generated
 
 ## Walkthrough Video:
 
-[Video Link of Tutorial](./dist/2022-04-25%2014-23-16.mkv)
+[Video Link of Tutorial](./dist/walkthrough.mp4)
 
 ## Application Demo:
 
-![portfolio demo](./dist/demo.gif)
+![portfolio demo](./dist/walkthrough.mp4)
 
 ## Table-of-Contents
 * [Installation](#installation)
