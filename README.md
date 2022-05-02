@@ -45,11 +45,12 @@ https://drive.google.com/file/d/1cjHKDrB8p9ZQePltYlSG8HlY0o6l_uRt/view
 
 ## Walkthrough Video:
 
-![portfolio walkthrough](./dist/walkthrough.mp4)
+https://user-images.githubusercontent.com/6329184/166234726-b8e7be11-546d-4661-acd9-16c22d55b70f.mp4
 
 ## Application Demo:
 
 ![portfolio demo](./dist/demo.gif)
+
 
 ## Table-of-Contents
 * [Installation](#installation)
