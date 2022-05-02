@@ -59,7 +59,7 @@ THEN I exit the application, and the HTML is generated
 To install necessary dependencies, run the following command:
 
 ```
-npm install
+npm i inquirer jest fs
 ```
 
 ## [Usage](#table-of-contents)
