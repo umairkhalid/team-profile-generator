@@ -1,4 +1,4 @@
-let buildBoilerPlate = (teamCards) =>
+const buildBoilerPlate = (teamCards) =>
   `<!DOCTYPE html>
 <html lang="en">
     <head>

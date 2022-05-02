@@ -1,4 +1,4 @@
-let buildHTML = (employee) => {
+const buildHTML = (employee) => {
     let role = "";
     let details = "";
     let email = `Email: <a href="mailto:${employee.email}" target="_blank"'>${employee.email}</a>`;
